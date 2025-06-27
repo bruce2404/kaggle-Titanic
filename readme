@@ -1,4 +1,4 @@
-# 🚢 泰坦尼克号生存预测 - Kaggle竞赛解决方案 
+# 🚢 泰坦尼克号生存预测 - Kaggle竞赛解决方案
 
 ## 项目概述
 
@@ -145,5 +145,3 @@ python titanic_survival_prediction.py
 ## 🤝 贡献
 
 欢迎提交Issue和Pull Request来改进这个项目！
-
-
